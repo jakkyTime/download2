@@ -4,12 +4,12 @@
         "remoteVersionUrl" : "http://raw.githubusercontent.com/jakkyTime/download2/master/version.manifest",
         "version" : "1.0.23",
         "groupVersions" : {
-            "1" : "1.0.22"
+            "1" : "1.0.23"
         },
         "engineVersion" : "3.9 rc0",
         "assets" : {
             "cocos2d-update-temp-package.zip" : {
-                "md5" : "69361FEDE857D55A627B997828D63A0F",
+                "md5" : "69361FEDE857D55A627B997828D63A0FD",
                 "compressed" : true,
                 "group" : "1"
             }
