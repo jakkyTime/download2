@@ -1,14 +1,19 @@
-{
-	"packageUrl" : "https://raw.githubusercontent.com/jakkyTime/download2/master/",
-	"remoteManifestUrl" : "https://raw.githubusercontent.com/jakkyTime/download2/master/project.manifest",
-    	"remoteVersionUrl" : "https://raw.githubusercontent.com/jakkyTime/download2/master/version.manifest",
-	"version" : “1.1.0”,
-	"engineVersion" : “cocos2dx-3.9”,
-
-	"assets" : {
-		"cocos2d-update-temp-package.zip" : {
-			"md5" : “1234”
-			"compressed":true
-		}
-	}
+{    
+        "packageUrl" : "http://raw.githubusercontent.com/jakkyTime/download2/master/",
+        "remoteManifestUrl" : "http://raw.githubusercontent.com/jakkyTime/download2/master/project.manifest",
+        "remoteVersionUrl" : "http://raw.githubusercontent.com/jakkyTime/download2/master/version.manifest",
+        "version" : "1.0.23",
+        "groupVersions" : {
+            "1" : "1.0.22"
+        },
+        "engineVersion" : "3.9 rc0",
+        "assets" : {
+            "cocos2d-update-temp-package.zip" : {
+                "md5" : "69361FEDE857D55A627B997828D63A0F",
+                "compressed" : true,
+                "group" : "1"
+            }
+        },
+        "searchPaths" : [
+        ]
 }
