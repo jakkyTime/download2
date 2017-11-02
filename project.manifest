@@ -2,10 +2,7 @@
         "packageUrl" : "http://raw.githubusercontent.com/jakkyTime/download2/master/",
         "remoteManifestUrl" : "http://raw.githubusercontent.com/jakkyTime/download2/master/project.manifest",
         "remoteVersionUrl" : "http://raw.githubusercontent.com/jakkyTime/download2/master/version.manifest",
-        "version" : "1.0.23",
-        "groupVersions" : {
-            "1" : "1.0.23"
-        },
+        "version" : "1.0.24",
         "engineVersion" : "3.9 rc0",
         "assets" : {
             "cocos2d-update-temp-package.zip" : {
