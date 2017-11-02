@@ -1,0 +1,14 @@
+{
+	"packageUrl" : "https://raw.githubusercontent.com/jakkyTime/download2/master/",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/jakkyTime/download2/master/project.manifest",
+    	"remoteVersionUrl" : "https://raw.githubusercontent.com/jakkyTime/download2/master/version.manifest",
+	"version" : “1.1.0”,
+	"engineVersion" : “cocos2dx-3.9”,
+
+	"assets" : {
+		"cocos2d-update-temp-package.zip" : {
+			"md5" : “1234”
+			"compressed":true
+		}
+	}
+}
