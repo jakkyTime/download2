@@ -1,8 +1,10 @@
 {
-	"packageUrl" : "https://raw.githubusercontent.com/jakkyTime/download2/master/",
-	"remoteManifestUrl" : "https://raw.githubusercontent.com/jakkyTime/download2/master/project.manifest",
-    	"remoteVersionUrl" : "https://raw.githubusercontent.com/jakkyTime/download2/master/version.manifest",
-	"version" : “1.1.0”,
-	"engineVersion" : “cocos2dx-3.9”,
-
+        "packageUrl" : "http://raw.githubusercontent.com/jakkyTime/download2/master/",
+        "remoteManifestUrl" : "http://raw.githubusercontent.com/jakkyTime/download2/master/project.manifest",
+        "remoteVersionUrl" : "http://raw.githubusercontent.com/jakkyTime/download2/master/version.manifest",
+        "version" : "1.0.22",
+        "groupVersions" : {
+            "1" : "1.0.22"
+        },
+        "engineVersion" : "3.9 rc0"
 }
